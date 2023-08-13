@@ -1,0 +1,18 @@
+#main-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 75px;
+}
+
+#header_log-sign-in-btn{
+    display: flex;
+    align-items: flex-start;
+    gap: 21px;
+    align-self: stretch;
+}
+
+#header_logo{
+    max-width: 100%;
+    height: auto;
+}

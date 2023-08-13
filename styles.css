@@ -207,13 +207,19 @@ body{
     --variable-color-lilac-800:#C9BBEA;
     --variable-color-lilac-900:#E4DDF5;
 
-    --variable-color-orang-100:#1B0700;
-    --variable-color-orang-200:#491D0E;
-    --variable-color-orang-300:#76341B;
-    --variable-color-orang-400:#D16136;
-    --variable-color-orang-600:#FF9269;
-    --variable-color-orang-700:#FFAD8F;
-    --variable-color-orang-800:#FFC9B4;
-    --variable-color-orang-900:#FFF1EC;
+    --variable-color-orange-100:#1B0700;
+    --variable-color-orange-200:#491D0E;
+    --variable-color-orange-300:#76341B;
+    --variable-color-orange-400:#D16136;
+    --variable-color-orange-600:#FF9269;
+    --variable-color-orange-700:#FFAD8F;
+    --variable-color-orange-800:#FFC9B4;
+    --variable-color-orange-900:#FFF1EC;
 
+}
+
+#bienvenido{
+    background-image: url('src/images/thisisengineering-raeng-xoCrMyMFt7s-unsplash\ 1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
