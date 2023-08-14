@@ -37,7 +37,7 @@ class EduHeader extends HTMLElement {
                     </ul>
 
                     <div id="header_log-sign-in-btn"class="col-md-3 text-end">
-                        <button type="button" class="btn btn-primary">Regístrate</button>    
+                        <button type="button" class="btn btn-primary registration">Regístrate</button>    
                         <button type="button" class="btn btn-outline-primary me-2">Ingresar</button>
                     </div>
                 </div>

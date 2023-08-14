@@ -33,7 +33,7 @@ class TranslucidSquare extends HTMLElement{
                 </div>
                 <h3 id="square-body-content">${this.textbody}</h3>
             </div> 
-            <button class="btn btn-primary">${this.textbtn}</button>
+            <button class="btn btn-primary registration">${this.textbtn}</button>
         </div>
         `
     
